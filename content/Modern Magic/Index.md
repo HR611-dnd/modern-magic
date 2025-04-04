@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Introduction
+    - Welcome to Modern Magic!
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
