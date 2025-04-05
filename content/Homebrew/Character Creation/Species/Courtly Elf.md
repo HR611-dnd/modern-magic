@@ -8,7 +8,7 @@ tags:
   - pointy-hat
   - species
 ---
-**
+
 [Courtesy of pointy hat](https://youtu.be/nt0R5oMdj3M?si=eSSLqjZ0_Su49dv5)
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7oBs1mOCj1kW0pJAYxsR9Lt98LVX3GIiYDyK2hkizPFQfghojvQe55WCtdfN2X70U5B3R6ATna1n_YqbcDxY_Q_MnvlStWhM7i14-1Ot2Rv09gWPB866m7P_AXJOme_mPJh0rSv2DetlC88vV5VOu4DI?key=1JlS5vyzttM0mRmyTEmShA)**
 
@@ -36,4 +36,4 @@ They are, however, not entirely free from the xenophobia that characterizes many
 
 **Courtly Charisma**: When forced to make an Intelligence or Wisdom saving throw, you can choose to make a Charisma saving throw instead. Once you use this trait, you can't do so again until you finish a short or long rest.
 
-**Noble Duel**: When you make a melee attack against a creature while wielding a finesse weapon with which you are proficient, you can choose to reroll all ones in both your attack and damage rolls as long as there are no friendly creatures within 5 feet of you. You must take the second roll. You can use this trait a number of times equal to your proficiency bonus.**
+**Noble Duel**: When you make a melee attack against a creature while wielding a finesse weapon with which you are proficient, you can choose to reroll all ones in both your attack and damage rolls as long as there are no friendly creatures within 5 feet of you. You must take the second roll. You can use this trait a number of times equal to your proficiency bonus.

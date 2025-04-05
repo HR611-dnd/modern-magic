@@ -8,7 +8,6 @@ tags:
   - subclass
   - pointy-hat
 ---
-**
 
 [Courtesy of Pointy Hat](https://youtu.be/OaekpBgbtlc?si=pT6VxI-qOXf-fWrR)
 
@@ -75,5 +74,3 @@ At 10th level, your body has become a perfect vessel for spiritual possession. W
 At 14th level, your mastery over possession grows so powerful that you can use spirits’ strength to enhance others. When you enter rage, choose another willing creature that you can see within 30 feet of you. Until your rage ends, that chosen creature now benefits from the bonuses granted from the spirit you have chosen that isn’t currently possessing you. The chosen creature is not considered to be raging while enjoying the effects of the possession.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-**

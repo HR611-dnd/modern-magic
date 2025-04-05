@@ -7,7 +7,7 @@ tags:
   - pointy-hat
   - species
 ---
-**
+
 [Courtesy of Pointy Hat](https://www.youtube.com/watch?v=a4UzhLL830Q)
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOwgtrMlZV1VIhj5mYgPUaErZ4PGXfTG--K2YEJCmNBzjryaoQhyUAbb5H3M3BDyf0Z8bBmrnqzK8jm7hPTKBuQDFdTx-w471HiOz8ARElDsqOCNUv3aau8SG44ZAc1sW7DsnITDklnOMPm3f-jj-b_A?key=NH8Ck-LlnIcPQjxf4zDR6g)**
 ## History:
@@ -50,6 +50,3 @@ The cultural push towards self-reliance, their love for stories, and their innat
   
 **Language**: You can speak, read, and write Common and one other language of your choice.  
   
-
-
-**

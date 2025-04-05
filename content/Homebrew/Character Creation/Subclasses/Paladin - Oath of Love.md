@@ -8,8 +8,6 @@ tags:
   - subclass
   - character-creation
 ---
-**
-
 [Courtesy of Pointy Hat](https://youtu.be/FqP2-afugl8?si=5z-d-IeX_TbTXT4x)
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6zxpoTrnySlkOGUWPgt-yO7CUafmOHApnctdasdtwM4Sm2es-Gviw_kkzBGeNZKf-v-gQxtrQqmogkcFG--XwXDc8s8oxt1KFRU_eu_JBHxik6fZIz70MI7ys0e3E-1Px0uyxg6aS25s8Mcass7F6wK8?key=BO61lJ-iIOE90wESs_QdHQ)**
@@ -37,14 +35,14 @@ The tenets of the Oath of Love holds the feelings of the paladin as what is most
 
 You gain oath spells at the paladin levels listed.
 
-|   |   |
-|---|---|
-|Level|Spell|
-|3rd|Bless|
-|5th|Enhance Ability|
-|9th|Haste|
-|13th|Resilient Sphere|
-|17th|Wall of Force|
+| Level | Spell            |
+| ----- | ---------------- |
+| 3rd   | Bless            |
+| 5th   | Enhance Ability  |
+| 9th   | Haste            |
+| 13th  | Resilient Sphere |
+| 17th  | Wall of Force    |
+|       |                  |
 
 ### 3rd Level: Channel Divinity
 
@@ -83,6 +81,3 @@ At 20th level, you become the living embodiment of the love you feel so strongly
 - You can choose a number of friendly and willing creatures equal to your charisma modifier as your beloved. They all enjoy the same bonuses while in your aura.
 
 - You add a +2 instead of a +1 to all your attack rolls, damage rolls, and AC as long as there is a conscious beloved within your aura.
-
-  
-**

@@ -8,7 +8,6 @@ tags:
   - character-creation
   - subclass
 ---
-**
 
 [Courtesy of Pointy Hat](https://youtu.be/Ltt9MIj5UDw?si=MnP0R2F9HpjnVZfu)
 
@@ -26,14 +25,13 @@ The cowboy is also particularly centered around firearm combat, using the rules 
 
 Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Cowboy Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
-|   |   |
-|---|---|
-|Level|Spell|
-|3rd|Animal Friendship|
-|5th|Find Steed|
-|9th|Haste|
-|13th|Dominate Beast|
-|17th|Hold Monster|
+| Level | Spell             |
+| ----- | ----------------- |
+| 3rd   | Animal Friendship |
+| 5th   | Find Steed        |
+| 9th   | Haste             |
+| 13th  | Dominate Beast    |
+| 17th  | Hold Monster      |
 
 ### 3rd Level: Cowboy Marksmanship
 
@@ -56,5 +54,3 @@ At 11th level, you gain the ability to infuse your bullets with your own magic, 
 ### 15th level: Arcane Quick Draw
 
 At 15th level, spellcasting and shooting have become so natural to you that you are able to weave one and the other seamlessly. When you make a ranged weapon attack using a firearm against one creature, you can cast one ranger spell you know as part of the same action. You can use this feature a number of times equal to your wisdom modifier. You regain all uses of this ability after finishing a long rest.
-
-**

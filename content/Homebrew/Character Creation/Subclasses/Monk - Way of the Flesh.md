@@ -9,7 +9,6 @@ tags:
   - subclass
   - horror
 ---
-**
 
 ```
 Content Warning:
@@ -59,5 +58,3 @@ For example, when you consume a Potion of Healing, you can spend one ki point to
 At 17th level, you have attained mastery over your body, turning it into a deadly weapon against all who dare come near it.
 
 Whenever a creature enters the reach you have with your unarmed strikes or makes a melee attack against you, you can spend 1 ki point as a reaction to make an unarmed strike against them by producing bone spikes out of your body. When you do so, your AC increases by one until the end of your next turn.
-
-**

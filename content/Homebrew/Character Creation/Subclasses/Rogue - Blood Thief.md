@@ -8,7 +8,6 @@ tags:
   - homebrew
   - subclass
 ---
-**
 
 [Courtesy of Pointy Hat](https://youtu.be/3dViwgbrt-c?si=2oHI1XTxUQlo2-_N)
 
@@ -65,4 +64,4 @@ Additionally, each use of your Blood Magic gains an additional effect:
 
 - **Blood Stain**: When you choose this effect, the creature damaged by your Sneak Attack has disadvantage on all Constitution saving throws to avoid the poisoned condition for 1 minute, including those against your Blood Stain ability.
 
-- **Blood Puppetry**: If the creature damaged by your Sneak Attack fails its Wisdom saving throw, you can choose to put the creature under the effect of either the compulsion spell, the command spell, or the hold person spell. If you choose compulsion or hold person, the creature repeats its saving throw at the end of every turn.**
+- **Blood Puppetry**: If the creature damaged by your Sneak Attack fails its Wisdom saving throw, you can choose to put the creature under the effect of either the compulsion spell, the command spell, or the hold person spell. If you choose compulsion or hold person, the creature repeats its saving throw at the end of every turn.

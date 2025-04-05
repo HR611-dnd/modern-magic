@@ -7,7 +7,7 @@ tags:
   - pointy-hat
   - species
 ---
-**
+
 
 [Courtesy of Pointy Hat](https://youtu.be/n1P3dhsLeZg?si=6zMUaTi5X6_RLzEG)
 
@@ -65,5 +65,3 @@ You can use this trait a number of times equal to your proficiency bonus, regain
 
   
 **Healing Resistance**: The veil between life and death is so thin for you that magical healing is less effective when applied to you. When you receive healing from a spell that specifically states it has no effect on undead, you receive half the hit points healed, rounding up, instead of the full amount.
-
-**

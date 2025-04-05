@@ -21,32 +21,30 @@ The draconic warlock’s powers are themed around abilities that traditional dra
 
 You choose your patron’s kind and the damage associated with it or determine it randomly, using the Dragon Kind table.
 
-|   |   |   |
-|---|---|---|
-|1d10|Kind|Damage|
-|1|Red|Fire|
-|2|Gold|Fire|
-|3|Brass|Fire|
-|4|Blue|Lightning|
-|5|Bronze|Lightning|
-|6|Copper|Acid|
-|7|Green|Poison|
-|8|White|Cold|
-|9|Silver|Cold|
-|10|Warden|Force|
+| 1d10 | Kind   | Damage    |
+| ---- | ------ | --------- |
+| 1    | Red    | Fire      |
+| 2    | Gold   | Fire      |
+| 3    | Brass  | Fire      |
+| 4    | Blue   | Lightning |
+| 5    | Bronze | Lightning |
+| 6    | Copper | Acid      |
+| 7    | Green  | Poison    |
+| 8    | White  | Cold      |
+| 9    | Silver | Cold      |
+| 10   | Warden | Force     |
 
 ### 1st Level: Expanded Spell List
 
 At 1st level, the Dragon lets you choose from an expanded list of spells when you learn a warlock spell. All damage done by spells in the Dragon Expanded Spells table below will correspond to the damage of your patron’s dragon kind. The Dragon Kind table shows what damage type corresponds to the kind of dragon that is your patron.
 
-|   |   |
-|---|---|
-|Level|Spell|
-|1st|Command, Feather Fall|
-|2nd|Flamming Sphere, Alter Self|
-|3rd|Fear, Fly|
-|4th|Fire Shield, Hallucinatory Terrain|
-|5th|Cloudkill, Cone of Cold|
+| Level | Spell                              |
+| ----- | ---------------------------------- |
+| 1st   | Command, Feather Fall              |
+| 2nd   | Flamming Sphere, Alter Self        |
+| 3rd   | Fear, Fly                          |
+| 4th   | Fire Shield, Hallucinatory Terrain |
+| 5th   | Cloudkill, Cone of Cold            |
 
 ### 1st Level: Draconic Form
 

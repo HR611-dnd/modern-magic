@@ -7,7 +7,7 @@ tags:
   - homebrew
   - species
 ---
-**
+
  
 [Courtesy of Pointy Hat](https://youtu.be/qSjh6-mA638?si=YCfuPzstXnox7FF0)  
 
@@ -95,5 +95,3 @@ Your walking speed increases by 5 feet. Additionally, moving through non-magical
 - A seat that hovers 5 inches above the ground.
 - A set of artificial calves with magically-powered jets of energy.
 
-
-**

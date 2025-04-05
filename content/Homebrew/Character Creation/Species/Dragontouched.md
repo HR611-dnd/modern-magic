@@ -7,7 +7,7 @@ tags:
   - pointy-hat
   - species
 ---
-**
+
 [Courtesy of Pointy Hat](https://youtu.be/VnrEhEEJcKE?si=R2bsvWoUhN62YfFD)
 
 ## History:
@@ -63,5 +63,3 @@ The draconic touch of your ancestors still flows through you. When making a Drag
 - You have proficiency in one of the following skills of your choice: Acrobatics, Sleight of Hand, or Stealth.
 - Your walking speed is 40 instead of 30.
 - You gain a swimming speed equal to your walking speed
-
-**

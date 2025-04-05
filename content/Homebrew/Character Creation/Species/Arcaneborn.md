@@ -45,9 +45,8 @@ The different arcaneborn that are born from the casting of this spell are aligne
 
 Intelligence, Wisdom, or Charisma is your spell-casting ability for the spells you cast with this trait (choose the ability when you select the imprint).
 
-|             |                                       |                |                    |
-| ----------- | ------------------------------------- | -------------- | ------------------ |
 | Imprint     | Level 1                               | Level 3        | Level 5            |
+| ----------- | ------------------------------------- | -------------- | ------------------ |
 | Abjuration  | You know the Resistance cantrip.      | Shield         | Lesser Restoration |
 | Conjuration | You know the Mage Hand cantrip.       | Entangle       | Misty Step         |
 | Enchantment | You know the Vicious Mockery cantrip. | Command        | Suggestion         |

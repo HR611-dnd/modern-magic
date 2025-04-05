@@ -8,7 +8,7 @@ tags:
   - homebrew
   - elf
 ---
-**
+
 [Courtesy of pointy hat](https://youtu.be/nt0R5oMdj3M?si=eSSLqjZ0_Su49dv5)
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvJnQV5duhTOXua9v2s8z6yD1DqRhdYHpN7zQdZ1IBrSSvCajy4CkrWuypyVR1dWc5Y4f1eUBXLcJKDyFHnC280yvq9nqsL8KrFHkCbTyABrSbgpMIjCvEVmAENGcA7A03rIpd9S0Fea-zBZYcvkzI5uU?key=1JlS5vyzttM0mRmyTEmShA)**
 
@@ -37,4 +37,4 @@ The great differences between the lived experiences of most living beings and Ae
 **Aetheric Step**: You know the spell Misty Step, and can cast it as a reaction to an attack once per long rest. Additionally, if you are able to spend a spell slot to cast the Misty Step spell with the Spellcasting or Pact Magic class features, you may choose to cast it as a reaction to an attack instead of a bonus action regardless of whether you've already used this trait.
 
   
-**Aetheric Form**: As an action, you turn your form into aetheric smoke, becoming slightly translucent and vaporous. For 1 minute, your AC increases by 1 and you have advantage on Strength, Dexterity, and Constitution saving throws. If you make an attack or cast a spell that affects an enemy creature, the effect ends and you return to your original form instantly. You can end this effect with a bonus action. Once you use this trait, you can't do so again until you finish a long rest.**
+**Aetheric Form**: As an action, you turn your form into aetheric smoke, becoming slightly translucent and vaporous. For 1 minute, your AC increases by 1 and you have advantage on Strength, Dexterity, and Constitution saving throws. If you make an attack or cast a spell that affects an enemy creature, the effect ends and you return to your original form instantly. You can end this effect with a bonus action. Once you use this trait, you can't do so again until you finish a long rest.

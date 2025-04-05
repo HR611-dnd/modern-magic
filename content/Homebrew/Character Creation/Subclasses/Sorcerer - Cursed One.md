@@ -28,9 +28,8 @@ Because the 5.2 SRD has not yet been released, there are two features in this su
 
 As a Cursed One sorcerer, you have been inflicted with a curse that is the source of your sorcerous magic. Talk with your GM to outline the specifics of this curse and how it affects your character. You may choose to have the curse actually negatively affect your character mechanically, or leave it only for flavor. You can roll on the table below to choose a curse or help you create your own.
 
-|     |                                                                                                                                                                                                                                                                                                                                                                                               |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | d8  | Curse                                                                                                                                                                                                                                                                                                                                                                                         |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | You are transformed into a beastly humanoid, more animal than person. Your previous species is completely unrecognizable now.                                                                                                                                                                                                                                                                 |
 | 2   | You are cursed with constant bad luck, the hands of fate conspiring to put you in distress. Your GM may use [the bad luck table on the Jinx species](https://www.google.com/url?q=https://docs.google.com/document/d/1jJg4ZNSaR3PJAFLk2PU14plyef97a4HbsjF7Gjx_pro/pub&sa=D&source=editors&ust=1742184657967935&usg=AOvVaw3UEc9oqXWmwRPYQS85PT6J) for ideas as to how your bad luck manifests. |
 | 3   | Your once-beautiful appearance has been twisted into a grotesque caricature, the mere sight of your face scaring children.                                                                                                                                                                                                                                                                    |
@@ -44,14 +43,13 @@ As a Cursed One sorcerer, you have been inflicted with a curse that is the sourc
 
 Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Curse Spells table. The spell counts as a sorcerer spell for you, but it doesn't count against the number of ranger spells you know.
 
-|   |   |
-|---|---|
-|Level|Spell|
-|1st|Bane, Inflict Wounds|
-|3rd|Blindness/Deafness, Silence|
-|5th|Bestow Curse, Slow|
-|7th|Confusion, Polymorph|
-|9th|Contagion, Dominate Person|
+| Level | Spell                       |
+| ----- | --------------------------- |
+| 1st   | Bane, Inflict Wounds        |
+| 3rd   | Blindness/Deafness, Silence |
+| 5th   | Bestow Curse, Slow          |
+| 7th   | Confusion, Polymorph        |
+| 9th   | Contagion, Dominate Person  |
 
 ### 3rd Level: Cursed One
 

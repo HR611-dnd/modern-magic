@@ -8,8 +8,6 @@ tags:
   - homebrew
   - subclass
 ---
-**
-
 [Courtesy of Pointy Hat](https://youtu.be/_hS4jG27HMw?si=ozzOB6X1Rl1zjiWQ)
 
 Overview:
@@ -57,6 +55,3 @@ At 10th level, your influence over the environment surrounding you grows, harves
 ### 14th Level: Terraformer
 
 At 14th level, you are no longer constrained by the terrain you stand on, now able to change its nature to your will. When you expend a use of Wild Shape to gain the benefits of your Wild Shaper feature, you choose whether the terrain within 10 feet of you is considered Natural or Constructed, and transform it to match. For example, wooden floorboards grow vines and roots, or dirt covered in sand and rock turns to a cobblestone road. You can change the terrain around you again at the beginning of each subsequent turn as a free action for as long as your Wild Shaper feature is active.
-
-  
-**

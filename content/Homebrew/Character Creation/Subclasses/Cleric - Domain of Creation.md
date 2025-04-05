@@ -8,7 +8,7 @@ tags:
   - subclass
   - character-creation
 ---
-**
+
 [Courtesy of Pointy Hat](https://youtu.be/x1q36d4GIzk?si=8icEUUSAhSpdRpvt)
 
 The Cleric Divine Domain of Creation is a cleric subclass that focuses on a cleric playstyle that emphasizes set up and upkeep, as well as clever, outside of the box thinking.
@@ -23,9 +23,8 @@ Players that enjoy coming up with creative uses for their abilities as well as a
 
 Starting at 1st level, you learn an additional spell when you reach certain levels in this class, as shown in the Creation Domain Spells table. The spell counts as a cleric spell for you, but it doesn't count against the number of cleric spells you know.
 
-|       |                           |
-| ----- | ------------------------- |
 | Level | Spell                     |
+| ----- | ------------------------- |
 | 1st   | Floating Disk, Shield     |
 | 3rd   | Enlarge/Reduce, Shatter   |
 | 5th   | Meld into Stone, Tiny Hut |
@@ -50,80 +49,13 @@ Starting at 2nd level, you can use your Channel Divinity to create a living divi
 
 As an action, you create an envoy in an unoccupied space you can see within 30 feet from you. When you summon the envoy, choose between Healing, Protection, or Harm. You cannot create a new envoy of the same type as a currently existing envoy.
 
-```statblock
-name: ENVOY OF HEALING
-source: 5e SRD
-size: Small
-type: Construct
-alignment: Unaligned
-ac: 13 + your proficiency Bonus
-hp: Five times your cleric level
-speed: 20 ft.
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: "psychic, poison"
-condition_immunities: ""
-senses: darkvision 60 ft., passive Perception yours
-bestiary: true
-traits:
-  - name: Divine Healing
-    desc: "At the start of your turn, the envoy of healing grants 1d6 temporary hit points to any creature of your choice within 10 feet of it."
-    attack_bonus: 0
-actions:
-  - name: "Envoy Healing"
-    desc: "The envoy of healing restores 1d6 + your Wisdom modifier hit points to a creature it can see within 30 feet of it. The envoy of healing can heal a number of times equal to 1 + your Wisdom modifier. After healing that number of times, the envoy is no longer able to use the envoy healing action."
-    attack_bonus: 0
-```
-  
-```statblock
-name: ENVOY OF PROTECTION
-source: 5e SRD
-size: Small
-type: Construct
-alignment: Unaligned
-ac: 15 + your proficiency Bonus
-hp: 5 + five times your cleric level
-speed: 20 ft.
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: "psychic, poison"
-condition_immunities: ""
-senses: darkvision 60 ft., passive Perception yours
-bestiary: true
-traits:
-  - name: Divine Protection
-    desc: "All creatures of your choice (excluding the envoy of protection) within 10 feet of the envoy of protection gain +1 to their AC and have advantage on a saving throw of your choice. You choose the saving throw when you create the envoy."
-    attack_bonus: 0
-actions:
-  - name: "Envoy Protection"
-    desc: "The envoy assumes a protective stance. Until the beginning of your next turn the envoy becomes resistant to all damage except necrotic and can use its reaction to make itself the target of an attack made against a friendly creature within 10 feet of it."
-    attack_bonus: 0
-```
-  
-  ```statblock
-name: ENVOY OF HARM
-source: 5e SRD
-size: Small
-type: Construct
-alignment: Unaligned
-ac: 15 + your proficiency Bonus
-hp: 5 + five times your cleric level
-speed: 20 ft.
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: "psychic, poison"
-condition_immunities: ""
-senses: darkvision 60 ft., passive Perception yours
-bestiary: true
-traits:
-  - name: Divine Harm
-    desc: "You can cast spells as though you were in the envoy of harm’s place."
-    attack_bonus: 0
-actions:
-  - name: "Envoy Harm"
-    desc: "Ranged Spell Attack: Your spell attack modifier to hit, reach 60 ft., one creature. Hit 1d8 radiant damage. The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
-    attack_bonus: 0
-```
+**![](https://i.imgur.com/vsc5oyW.png)**
+
+
+**![](https://i.imgur.com/fp6uvOy.png)**
+
+
+**![](https://i.imgur.com/P9vPNK2.png)**
 
 If an envoy is forced to make an ability check or saving throw, it uses your ability scores.
 
@@ -147,50 +79,9 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 
 At 17th level, you can combine the envoys you brought to life to bring forth an even more powerful creation. As an action, if two of your envoys are within 5 feet of each other, you can use an additional use of channel divinity to combine them, creating an exalted envoy. The exalted envoy appears in an unoccupied space 20 feet from the space occupied by the envoys used in its creation. If there is not enough space for the exalted envoy to appear, the summoning fails.
 
-  ```statblock
-name: EXALTED ENVOY
-source: 5e SRD
-size: Large
-type: Construct
-alignment: Unaligned
-ac: 16 + your proficiency Bonus
-hp: 10 + five times your cleric level
-speed: 40 ft.
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: "psychic, poison"
-condition_immunities: ""
-senses: darkvision 60 ft., passive Perception yours
-bestiary: true
-traits:
-  - name: "Divine Combination"
-    desc: "The exalted envoy gains the Divine Healing, Divine Protection, and/or the Divine Harm abilities, depending on what envoys were used in its creation."
-    attack_bonus: 0
-  - name: "Divine Healing"
-    desc: "At the start of your turn, the envoy of healing grants 1d6 temporary hit points to any creature of your choice within 10 feet of it."
-    attack_bonus: 0
-  - name: "Divine Protection"
-    desc: "All creatures of your choice (excluding the envoy of protection) within 10 feet of the envoy of protection gain +1 to their AC and have advantage on a saving throw of your choice. You choose the saving throw when you create the envoy."
-    attack_bonus: 0
-  - name: "Divine Harm"
-    desc: "The exalted envoy gains the Divine Healing, Divine Protection, and/or the Divine Harm abilities, depending on what envoys were used in its creation."
-    attack_bonus: 0
-actions:
-  - name: "Multiaction"
-    desc: "The exalted envoy can use two of its actions on its turn. Its actions depend on what envoys were used in its creation. It cannot use the same action twice on the same turn"
-    attack_bonus: 0
-  - name: "Envoy Healing"
-    desc: "The envoy of healing restores 1d6 + your Wisdom modifier hit points to a creature it can see within 30 feet of it. The envoy of healing can heal a number of times equal to 1 + your Wisdom modifier. After healing that number of times, the envoy is no longer able to use the envoy healing action."
-    attack_bonus: 0
-  - name: "Envoy Protection"
-    desc: "The envoy assumes a protective stance. Until the beginning of your next turn the envoy becomes resistant to all damage except necrotic and can use its reaction to make itself the target of an attack made against a friendly creature within 10 feet of it."
-    attack_bonus: 0
-  - name: "Envoy Harm"
-    desc: "Ranged Spell Attack: Your spell attack modifier to hit, reach 60 ft., one creature. Hit 1d8 radiant damage. The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
-    attack_bonus: 0
-```
+**![](https://i.imgur.com/tjd7yin.png)**
+
 If the exalted envoy is forced to make an ability check or saving throw, it uses your ability scores.
 
 In combat, the envoy acts immediately before or after your turn, your choice. You can command it telepathically as a free action instead of a bonus action. If the mending cantrip is cast on the exalted envoy, it regains 2d6 hit points. The envoy disappears if it is reduced to 0 hit points or after a number of turns equal to your proficiency bonus. You can dismiss it early as an action. Once you’ve summoned an exalted envoy you cannot do so again until you finish a long rest.
 
-**

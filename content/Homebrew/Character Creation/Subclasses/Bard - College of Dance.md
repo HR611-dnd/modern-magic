@@ -8,7 +8,6 @@ tags:
   - pointy-hat
   - subclass
 ---
-**
 
 [Courtesy of Pointy Hat](https://youtu.be/ycww112f5BQ?si=8JqRSuCbG3kY8E-k)
 
@@ -50,5 +49,3 @@ When you reach 14th level, you have mastered the art of dancing on the battlefie
 The radius of your Dance ability is now 20 feet. When you use your Dance ability, you may empower two allies simultaneously. Both allies must remain inside the 20-foot area of effect to receive the benefits of your dance. If one leaves while the other one remains in the dancing area of effect, the one remaining still enjoys the benefits, but you must use a bonus action and roll your bardic inspiration die if you wish to empower a second ally again. The new roll overrides the previous one.
 
 For instance: The original bardic inspiration roll is 8, and you are inspiring two creatures. One creature leaves the radius of your dance and loses the benefits of the dance. A new creature enters the radius and you use your bonus action to roll your bardic inspiration die to inspire that second creature, the result being a 4. Both creatures now add 4 instead of 8 to their ability checks, saving throws, or attacks.
-
-**
