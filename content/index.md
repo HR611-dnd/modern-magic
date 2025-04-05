@@ -1,7 +1,12 @@
 ---
-title: Welcome To Modern Magic!
-draft: false
-tags:
+longform:
+  format: scenes
+  title: Modern Magic
+  workflow: Default Workflow
+  sceneFolder: /
+  scenes: []
+  sceneTemplate: templates/chapter.md
+  ignoredFiles: []
 ---
 This is a one stop shop of notes for our DND Campaign
 
