@@ -7,6 +7,7 @@ longform:
   scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
+title: Welcome to Modern Magic
 ---
 This is a one stop shop of notes for our DND Campaign
 
