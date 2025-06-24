@@ -10,4 +10,5 @@ longform:
     - Creation Myth
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
+draft: true
 ---
