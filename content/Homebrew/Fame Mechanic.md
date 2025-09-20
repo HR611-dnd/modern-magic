@@ -1,3 +1,12 @@
+---
+title: Fame Mechanic
+draft: false
+tags:
+  - homebrew
+  - ARCcom
+  - Fame
+---
+
 Your fame consists of two features:
 - **Follower Count** - number of fans that consistently interact with your content. This is a measurement of your overall fame
 - **Fame Die** - The number of fans and interactions you attract through your posts. This is a measurement of your potential gains. 

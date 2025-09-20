@@ -1,3 +1,14 @@
+---
+title: Campaign Homebrew
+draft: false
+tags:
+  - homebrew
+  - reference
+  - gritty-realism
+  - i-know-a-guy
+  - fireside-chats
+---
+
 ## Gritty Realism
 
 When out of an Urban Setting, a Short Rest can be taken once every 24 hours. A Short Rest is 8 hours. A Long Rest can only be gained by taking three consecutive short rests in the same location without interruption. Rest is interrupted by:

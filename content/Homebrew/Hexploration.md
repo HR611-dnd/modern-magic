@@ -1,3 +1,13 @@
+---
+title: Hexploration
+draft: false
+tags:
+  - homebrew
+  - exploration
+  - hexmap
+  - weather
+---
+
 *A simple ruleset for hexcrawls.* 
 In ideal conditions, a character or party of characters can move up to 3 miles in an hour, or 24 miles over an 8-hour day. 
 
