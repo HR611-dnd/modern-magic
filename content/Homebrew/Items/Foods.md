@@ -26,7 +26,7 @@ Alternatively, the cook can bring forth exotic properties of the creature, confe
 | Legendary      | Magic Resistance, Regeneration,<br>Shapechanger(Mimic) |
 At the GM’s discretion, any ability can be added to this list.
 
-## Elementally Fortifying Feast
+# Elementally Fortifying Feast
 Up to 5 creatures can consume this feast within an hour of it being prepared. After consuming this hearty meal, you become satiated for the next 24 hours. The magical properties of the meal confer the following special benefits:
 
 | Element   | Benefit                                                                                                         |
