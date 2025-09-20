@@ -36,14 +36,14 @@ Up to 5 creatures can consume this feast within an hour of it being prepared. Af
 | Lightning | Advantage on Constituation saving throws<br>against the stunned condition and<br>resistance to lightning damage |
 These benefits fade after 24 hours. You can’t gain the benefits of another feast until these benefits fade and you are no longer satiated.
 
-## Seaworthy Bouillabaisse
+# Seaworthy Bouillabaisse
 Up to 5 creatures can consume this feast within an hour of it being prepared. After consuming this hearty meal, you become satiated for the next 24 hours. The magical properties of the meal grant you immunity to sea sickness as well as advantage on Dexterity or Constitution saving throws involving the motion of sea vessels.
 Additionally, if you do not have proficiency in Water Vehicles, you can add half your proficiency bonus (rounded down) to any check involving them for the duration.
 
 ## Heroes’ Feast
 A magnificent spread of food. Cooking this has the effect of casting the spell heroes’ feast, except it’s made of real food and not poofed into existence by strange magics.
 
-## What Doesn’t Kill You... Feast
+# What Doesn’t Kill You... Feast
 Up to 5 creatures can consume this feast within an hour of it being prepared. After consuming this dubious meal, you gain resistance to poison damage, and gain advantage on saving throws against being poisoned for 24 hours.
 If the source of a poison saving throw is the same as the source of the meat or poisonous reagent used to make the feast, the advantage against being poisoned by that creature or effect lasts one week.
 
