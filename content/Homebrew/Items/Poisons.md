@@ -80,3 +80,6 @@ Applied to an object. The first creature that touches must make a Constitution s
 Applied to a melee weapon or up to 5 pieces of ammunition. A creature subjected to this poison must make a Constitution saving throw with a DC equal to the crafter's Poison DC. 
 
 On failure, they become Poisoned for 1 minute. While poisoned in this way, a creatures takes 1d4 necrotic damage at the start of their turn, and are under the effect of bane. At the end of a poisoned creature’s turn, it can repeat the saving throw, ending the condition on success. Once applied, the poison retains potency for 1 minute before drying, and wears off of a weapon after that weapon has delivered the effect 5 times.
+
+## Antitoxin
+As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.

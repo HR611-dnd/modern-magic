@@ -11,7 +11,6 @@ You can trade Hit Dice in this way up to a number equal to your proficiency bonu
 | Roll a d* per Hit Die traded and gain temporary hit points equal to the value rolled | d4        | d6       | d8     | d12       |
 | Trade three hit dice for an additional spell slot of * level                         | 1st       | 2nd      | 3rd    | 4th       |
 | Gain a point that can be expended like Inspiration by trading * Hit Dice per point   | 5         | 4        | 3      | 2         |
-|                                                                                      |           |          |        |           |
 ## Meat Feast - Meat/Hearty/Superb/Legendary
 Up to 5 creatures can consume this feast within an hour of it being prepared. After consuming this hearty meal, you become satiated for the next 24 hours. Consuming the
 essence of a properly prepared creature of great power confers some of its power to you while satiated by the feast. You can add +1/+2/+3/+4 to ability checks and saving throws of the prepared creatures highest stat (if multiple stats are tied, the cook chooses which when preparing the meal).
