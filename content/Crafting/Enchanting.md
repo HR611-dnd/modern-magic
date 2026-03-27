@@ -104,3 +104,14 @@ A crafter that is capable of casting magic can replace the spell scroll in an en
 | Glittering Garnet    | 1 garnet worth at least 100 gp  <br>1 common divine essence  <br>1 uncommon arcane essence | 6 hours       | 3      | DC 16      | uncommon | 420 gp |
 | Magic Diamond        | 1 diamond worth at least 100 gp  <br>1 uncommon arcane essence                             | 6 hours       | 3      | DC 16      | uncommon | 370 gp |
 | Perfect Infusion     | 1 cut gem worth at least 50 gp  <br>1 common arcane essence  <br>1 common primal essence   | 6 hours       | 3      | DC 18      | uncommon | 400 gp |
+### Unlocked Ioun Stones:
+
+| Name                    | Materials                                                                                                                               | Time     | Checks | DC    | Rarity    | Sell Price |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ | ----- | --------- | ---------- |
+| Ioun Stone (Protection) | 1 rose gem worth at least 200 gp  <br>1 scroll of mage armor  <br>3 rare arcane essence  <br>1 rare divine essence                      | 16 hours | 8      | DC 17 | rare      | 3,800 gp   |
+| Ioun Stone (Awareness)  | 1 dark blue gem worth at least 200 gp  <br>1 scroll of enhance ability  <br>1 rare primal essence  <br>1 rare arcane essence            | 16 hours | 8      | DC 17 | rare      | 2,260 gp   |
+| Ioun Stone (Sustenance) | 1 clear gem worth at least 200 gp  <br>1 scroll of create food and water  <br>2 rare divine essence  <br>1 uncommon arcane essence      | 16 hours | 8      | DC 16 | rare      | 2,290 gp   |
+| Ioun Stone (Reserve)    | 1 purple gem worth at least 200 gp  <br>5 rare arcane essence  <br>4 uncommon arcane essence                                            | 16 hours | 8      | DC 17 | rare      | 5,100 gp   |
+| Ioun Stone (Strength)   | 1 pale blue gem at least 500 gp  <br>1 scroll of enhance ability  <br>4 very rare primal essence                                        | 24 hours | 12     | DC 19 | very rare | 33,000 gp  |
+| Ioun Stone (Absorption) | 1 pale lavender gem worth at least 500 gp  <br>1 scroll of dispel magic  <br>1 very rare arcane essence  <br>1 very rare divine essence | 24 hours | 12     | DC 19 | very rare | 18,000 gp  |
+| Ioun Stone (Agility)    | 1 deep red gem worth at least 500 gp  <br>1 scroll of enhance ability  <br>2 very rare primal essence  <br>2 very rare divine essence   | 24 hours | 12     | DC 19 | very rare | 33,000 gp  |

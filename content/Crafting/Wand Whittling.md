@@ -46,3 +46,13 @@ The type of Essence is determined by the spell list the spell comes from; if it 
 | Wand of Secrets         | 1 scroll of find traps  <br>1 common arcane essence  <br>1 common primal essence  <br>1 uncommon branch                                  | 8 hours       | 4      | DC 15      | uncommon | 250 gp |
 | Wand of Web             | 1 scroll of web  <br>1 uncommon arcane essence  <br>1 uncommon primal essence  <br>1 uncommon branch                                     | 12 hours      | 6      | DC 16      | uncommon | 600 gp |
 | Wand of the War Mage +1 | 1 uncommon arcane essence  <br>1 uncommon primal essence  <br>1 uncommon divine essence  <br>1 jewel worth 150 gp  <br>1 uncommon branch | 8 hours       | 4      | DC 16      | uncommon | 800 gp |
+**Unlocked Wands**:
+
+| Name                    | Materials                                                                                                                     | Time     | Checks | DC    | Rarity | Sell Price |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------- | ------ | ----- | ------ | ---------- |
+| Wand of Binding         | 1 scroll of hold monster  <br>1 scroll of hold person  <br>4 rare arcane essence  <br>1 rare branch                           | 24 hours | 12     | DC 17 | rare   | 4,600 gp   |
+| Wand of Enemy Detection | 1 scroll of see invisbility  <br>1 scroll of true seeing  <br>1 rare arcane essence  <br>1 rare branch                        | 16 hours | 8      | DC 17 | rare   | 300 gp     |
+| Wand of Fear            | 1 scroll of fear  <br>2 rare arcane essence  <br>1 uncommon divine essence  <br>1 rare branch                                 | 16 hours | 8      | DC 18 | rare   | 2,400 gp   |
+| Wand of Fireballs       | 1 scroll of fireball  <br>3 rare arcane essence  <br>2 rare primal essence  <br>1 ruby worth 500 gp  <br>1 rare branch        | 24 hours | 12     | DC 18 | rare   | 5,300 gp   |
+| Wand of Lightning Bolts | 1 scroll of lightning bolt  <br>2 rare arcane essence  <br>3 rare primal essence  <br>1 topaz worth 500 gp  <br>1 rare branch | 24 hours | 12     | DC 18 | rare   | 5,300 gp   |
+Runes
